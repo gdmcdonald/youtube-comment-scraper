@@ -1,5 +1,5 @@
 # Parse Comments from Youtube Videos
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahmedshahriar/youtube-comment-scraper/main)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdmcdonald/youtube-comment-scraper/main)
 
 This script will dump youtube video comments to a CSV from youtube video links. Video links can be placed inside a variable or list or CSV
 
